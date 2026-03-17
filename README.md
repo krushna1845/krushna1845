@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 # 💫 About Me:
-i'm krushna malode and i'm currently studying in engineering (mumbai university) , and i'm learning a backend development with java and springboot , second year Information technology student and i want to become a backend developer , also i'm focusing on DSA and making a project that based on backend i knows a restapis also yeah and me finding a internship or place anywhere in company .
+### 👨‍💻 About Me
+
+I am a passionate Backend Developer with a strong foundation in Data Structures & Algorithms and hands-on experience in building scalable RESTful APIs using Java and Spring Boot.
+
+I enjoy solving complex problems on platforms like LeetCode and continuously work on improving my problem-solving and system design skills.
+
+My focus is on writing clean, efficient, and maintainable code while building real-world backend systems such as authentication services, CRUD applications, and database-driven platforms.
+
+I am actively seeking opportunities to contribute to impactful projects, learn modern backend technologies, and grow as a software engineer.
 
 
 ## 🌐 Socials:

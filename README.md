@@ -89,7 +89,8 @@ I enjoy transforming ideas into real-world software by creating REST APIs, imple
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/krushna_1835/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://krushna-malode-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)]
+(https://krushna-malode-portfolio.vercel.app/)
 
 📧 **[krushnamalode1000@gmail.com](mailto:krushnamalode1000@gmail.com)**
 

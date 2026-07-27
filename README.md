@@ -53,7 +53,20 @@ DevOps & Tools
 
 ## 📈 GitHub Statistics
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krushna1845&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1845&theme=github-dark&hide_border=true" alt="GitHub Streak" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1845&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=krushna1845&theme=github-compact&hide_border=true" alt="activity graph" width="100%"/> </div>
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushna1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1845&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1845&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 
 ---
 

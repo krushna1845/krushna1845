@@ -41,7 +41,10 @@ DevOps & Tools
 <div align="center"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> </div>
 
 ---
+🏆 Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=krushna1845&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies"/> </div>
 
+---
 ## 📌 Featured Projects
 
 * 🔐 JWT Authentication System

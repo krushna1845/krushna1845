@@ -3,6 +3,13 @@
 
 ## 🚀 About Me
 
+Hi 👋 I'm Krushna Malode
+I’m an Information Technology undergraduate (VCET'28) passionate about designing scalable, secure, and production-ready backend systems.
+
+My primary focus is building robust applications using Java and Spring Boot, while expanding my expertise in DevOps, Cloud, and System Design.
+
+I enjoy transforming ideas into real-world software by creating REST APIs, implementing authentication systems, designing databases, containerizing applications, and automating deployments.
+
 * 💻 Backend Developer specializing in **Java & Spring Boot**
 * 🛠 Building scalable **REST APIs** and **Microservices**
 * 🐳 Exploring **Docker**, **Kubernetes**, **CI/CD**, and Cloud technologies

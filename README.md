@@ -53,20 +53,10 @@ DevOps & Tools
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krushna1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushna1845&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1845&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+![Repos](https://img.shields.io/badge/Repositories-View%20on%20GitHub-blue?logo=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krushna1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=krushna1845&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krushna1845&theme=tokyo-night&hide_border=true)
 
 ---
 

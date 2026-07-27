@@ -53,16 +53,19 @@ DevOps & Tools
 
 ## 📈 GitHub Statistics
 
-![Repos](https://img.shields.io/badge/Repositories-View%20on%20GitHub-blue?logo=github)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krushna1845&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=krushna1845&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krushna1845&theme=tokyo-night&hide_border=true)
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushna1845&theme=github-dark&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="GitHub Streak"/> </div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center"> <a href="https://www.linkedin.com/in/krushna-malode-614471374/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://leetcode.com/u/krushna_1835/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://www.instagram.com/krushna_1_8_4_5"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:krushnamalode1000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <br/> <div align="center"> <i>"Building scalable backend systems, one commit at a time."</i> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/krushna-malode-614471374/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/krushna_1835/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://krushna-malode-portfolio.vercel.app/)
+
+📧 **[krushnamalode1000@gmail.com](mailto:krushnamalode1000@gmail.com)**
 
 ---
 

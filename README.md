@@ -1,13 +1,4 @@
-# Hi 👋 I'm Krushna Malode
-
-### Java Backend Developer | Spring Boot | Microservices | DevOps | Problem Solver
-
-I’m an **Information Technology undergraduate (VCET'28)** passionate about designing **scalable, secure, and production-ready backend systems**.
-
-My primary focus is building robust applications using **Java** and **Spring Boot**, while expanding my expertise in **DevOps**, **Cloud**, and **System Design**.
-
-I enjoy transforming ideas into real-world software by creating REST APIs, implementing authentication systems, designing databases, containerizing applications, and automating deployments.
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Krushna%20Malode&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20DevOps&descAlignY=55&descSize=18" width="100%"/> <a href="https://github.com/krushna1845"> <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+scalable+REST+APIs+%26+Microservices;Exploring+Docker%2C+Kubernetes+%26+DevOps;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=650&height=40&duration=3000&pause=800&color=00C9A7&vCenter=true&size=22" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=krushna1845&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/> <img src="https://img.shields.io/github/followers/krushna1845?label=Followers&style=for-the-badge&color=2c5364" alt="followers"/> </div> <br/>
 ---
 
 ## 🚀 About Me

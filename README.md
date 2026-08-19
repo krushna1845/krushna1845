@@ -2,20 +2,22 @@
 
 # Krushna Malode
 
-**Java Backend Developer**
+### Java Backend Developer | Spring Boot | REST APIs
 
-Java • Spring Boot • REST APIs • MySQL • Docker • Microservices
-
-Building backend applications and distributed systems while continuously improving my problem-solving and software engineering skills.
+Building backend systems with Java and Spring Boot, with a focus on clean APIs, scalable services, and practical software engineering.
 
 <br/>
 
 <a href="https://github.com/krushna1845">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/krushna-malode/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=krushna1845&label=Profile%20Views&style=flat&color=555555" />
 
 </div>
 

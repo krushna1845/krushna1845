@@ -109,8 +109,6 @@ I enjoy transforming ideas into real-world software by creating REST APIs, imple
 
 <br/><br/>
 
-
-
 <br/><br/>
 
 ### 🧪 Testing & Code Quality
@@ -120,7 +118,6 @@ I enjoy transforming ideas into real-world software by creating REST APIs, imple
 <img src="https://img.shields.io/badge/Testing-Unit_%7C_Integration-6C757D?style=for-the-badge"/>
 
 </div>
-
 
 ---
 

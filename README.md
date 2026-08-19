@@ -109,9 +109,7 @@ I enjoy transforming ideas into real-world software by creating REST APIs, imple
 
 <br/><br/>
 
-### 🌐 Frontend & Supporting Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=light" />
 
 <br/><br/>
 

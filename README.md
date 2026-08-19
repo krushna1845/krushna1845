@@ -1,5 +1,23 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=220&section=header&text=Krushna%20Malode&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs%20%7C%20DevOps&descAlignY=55&descSize=18" width="100%"/> <a href="https://github.com/krushna1845"> <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+scalable+REST+APIs+%26+Microservices;Exploring+Docker%2C+Kubernetes+%26+DevOps;Always+learning%2C+always+building.&font=Fira+Code&center=true&width=650&height=40&duration=3000&pause=800&color=00C9A7&vCenter=true&size=22" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=krushna1845&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="profile views"/> <img src="https://img.shields.io/github/followers/krushna1845?label=Followers&style=for-the-badge&color=2c5364" alt="followers"/> </div> <br/>
+<div align="center">
 
+# Krushna Malode
+
+**Java Backend Developer**
+
+Java • Spring Boot • REST APIs • MySQL • Docker • Microservices
+
+Building backend applications and distributed systems while continuously improving my problem-solving and software engineering skills.
+
+<br/>
+
+<a href="https://github.com/krushna1845">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/krushna-malode/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ## 🚀 About Me
 
